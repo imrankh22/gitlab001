@@ -1,3 +1,0 @@
-Hi
-
-sample file 2 for new branch 'develop'
